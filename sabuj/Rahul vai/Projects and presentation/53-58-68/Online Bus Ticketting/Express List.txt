@@ -1,0 +1,10 @@
+           
+                   ***** Bus Category *****
+
+1 - HANIF
+2 - EAGLE
+3 - SHOHAGH
+4 - GREEN LINE
+5 - AK TRAVELS
+
+Chose your catagory by pressing number....(1 - 5)

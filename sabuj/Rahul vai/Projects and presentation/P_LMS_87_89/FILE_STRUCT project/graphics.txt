@@ -1,0 +1,29 @@
+book_name:Paradise Planned 
+author:Robert A. M. Stern 
+publisher:Rizzoli 
+book_id:401
+stock:10;
+
+book_name:Rough Interiors 
+author:Sibylle Kramer 
+publisher:Rizzoli 
+book_id:402
+stock:20;
+
+book_name:Richard Meier 
+author:Philip Jodidio 
+publisher:Rizzoli
+book_id:403
+stock:30;
+
+book_name:Saul Bass: A Life in Film & Design
+author:Pat Kirkham 
+publisher:Rizzoli 
+book_id:404
+stock:10;
+
+book_name:David Chipperfield Architects 
+author:David Chipperfield
+publisher:Rizzoli
+book_id:405
+stock:10;

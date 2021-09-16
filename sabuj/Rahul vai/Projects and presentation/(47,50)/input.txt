@@ -1,0 +1,52 @@
+ename:NIVIA EXPRESS
+pname:ORCHID
+source:ZEDDA
+destination:PAKISTAN
+booking_available:12
+ticket_price:65K
+p_list:
+1.Airbus A380-861
+2.Dragon Wings 55113
+3.Herpa 506335
+4.Emirates A330-200
+5.Airbus A300-A6;
+
+ename:SOUNTERN EXPRESS
+pname:MANDOLAS
+source:SPAIN
+destination:LONDON
+departure:3am
+arrival:12pm
+capacity:180
+booking_available:11
+ticket_price:75K
+
+ename:QUBAC EXPRESS
+pname:PADIDAC 109
+source:ENGLAND
+destination:CHAINA
+departure:4am
+arrival:1am
+capacity:170
+booking_available:10
+ticket_price:85K
+
+ename:ZINZIAN EXPRESS
+pname:KINGFISHER 112
+source:INDIA
+destination:BANGLADESH
+departure:4am
+arrival:1am
+capacity:170
+booking_available:8
+ticket_price:66K
+
+ename:CSSINO EXPRESS
+pname:NILJ 678
+source:CANADA
+destination:NEWZILAND
+departure:4am
+arrival:1am
+capacity:170
+booking_available:6
+ticket_price:35K

@@ -1,0 +1,29 @@
+book_name:Teach yourself c
+author:Herbert Schildt
+publisher:McGraw-Hill
+book_id:101
+stock:20;
+
+book_name:Teach yourself c++
+author:Herbert Schildt
+publisher:McGraw-Hill
+book_id:102
+stock:20;
+
+book_name:Who's Afraid of Java?
+author:Steve Heller 
+publisher:AP Professional 
+book_id:103
+stock:30;
+
+book_name:Programming With C
+author:Byron Gottfried
+publisher:McGraw-Hill
+book_id:104
+stock:20;
+
+book_name:The C Programming Language
+author:Brain W.Kernighan & Dennis M.Ritchie
+publisher:Prentice-Hall
+book_id:105
+stock:40;ÿ

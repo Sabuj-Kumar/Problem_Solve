@@ -1,0 +1,126 @@
+train_name: Padma 001
+Capacity: 05
+available_seats: 05
+arrival_time: 10:00
+Departure_time: 10:30
+
+train_name: Padma 002
+Capacity: 05
+available_seats: 05
+arrival_time: 10:30
+Departure_time: 11:00 
+
+train_name: Padma 003
+Capacity: 05
+available_seats: 05
+arrival_time: 11:00
+Departure_time: 11:30 
+
+train_name: Padma 004
+Capacity: 05
+available_seats: 05
+arrival_time: 12:00
+Departure_time: 12:30 
+
+
+
+train_name: Silkcity 001
+Capacity: 05
+available_seats: 05
+arrival_time: 10:00
+Departure_time: 10:30 
+
+train_name: Silkcity 002
+Capacity: 05
+available_seats: 05
+arrival_time: 10:30
+Departure_time: 11:00
+
+train_name: Silkcity 003
+Capacity: 05
+available_seats: 05
+arrival_time: 11:00
+Departure_time: 11:30
+
+train_name: Silkcity 004
+Capacity: 05
+available_seats: 05
+arrival_time: 12:00
+Departure_time: 12:30
+
+
+
+train_name: Mohanagar 001
+Capacity: 05
+available_seats: 05
+arrival_time: 10:00
+Departure_time: 10:30 
+
+train_name: Mohanagar 002
+Capacity: 05
+available_seats: 05
+arrival_time: 10:30
+Departure_time: 11:00 
+
+train_name: Mohanagar 003
+Capacity: 05
+available_seats: 05
+arrival_time: 11:00
+Departure_time: 11:30
+
+train_name: Mohanagar 004
+Capacity: 05
+available_seats: 05
+arrival_time: 12:00
+Departure_time: 12:30
+
+
+train_name: Antanagar 001
+Capacity: 05
+available_seats: 05
+arrival_time: 10:00
+Departure_time: 10:30 
+
+train_name: Antanagar 002
+Capacity: 05
+available_seats: 05
+arrival_time: 10:30
+Departure_time: 11:00 
+
+train_name: Antanagar 003
+Capacity: 05
+available_seats: 05
+arrival_time: 11:00
+Departure_time: 11:30
+
+train_name: Antanagar 004
+Capacity: 05
+available_seats: 05
+arrival_time: 12:00
+Departure_time: 12:30 
+
+
+
+train_name: Jamuna 001
+Capacity: 05
+available_seats: 05
+arrival_time: 10:00
+Departure_time: 10:30 
+
+train_name: Jamuna 002
+Capacity: 05
+available_seats: 05
+arrival_time: 10:30
+Departure_time: 11:00 
+
+train_name: Jamuna 003
+Capacity: 05
+available_seats: 05
+arrival_time: 11:00
+Departure_time: 11:30
+
+train_name: Jamuna 004
+Capacity: 05
+available_seats: 05
+arrival_time: 12:00
+Departure_time: 12:30 

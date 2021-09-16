@@ -1,0 +1,5 @@
+apple 90 150 1000gm
+malta 90 100 1000gm
+mango 90 80 1000gm
+strawberry 90 275 100gm
+orange 100 160 1000gm

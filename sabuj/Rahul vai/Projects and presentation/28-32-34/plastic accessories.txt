@@ -1,0 +1,5 @@
+bucket 11 140 500gm
+mug 30 60 250gm
+jug 20 50 600gm
+chair 25 500 1000gm
+table 25 1500 4000gm

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1395846243 source:c:\users\arif\desktop\new folder (2)\setua_line\setua.cpp
+	<graphics.h>
+	<conio.h>
+	<iostream>
+	<cstdio>
+
+1266126614 c:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

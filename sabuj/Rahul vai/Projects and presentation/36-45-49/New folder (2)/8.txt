@@ -1,0 +1,16 @@
+hospital_name:IBNA SINA
+branch_count:2
+branch_list:
+Danmondi
+Kolyanpur;
+id_list:
+1
+2;
+hospital_name:CARE HOSPITAL
+branch_count:2
+branch_list:
+Asadgate
+Mohakhali;
+id_list:
+3
+4;

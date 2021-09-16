@@ -1,0 +1,786 @@
+stdent_id: 12101001
+student_name: EVAN SHAHRIAR
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.45
+
+stdent_id: 12101002
+student_name: S.M.GOLAM KIBRIA RIFAT
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.30
+
+stdent_id: 12101003
+student_name: MD  ISTIAK UDDIN
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.85
+
+stdent_id: 12101004
+student_name: HASIN MD. MUHTASIM TAQI
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.00
+
+stdent_id: 12101005
+student_name: ZAWAD TANVIR
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.15
+
+stdent_id: 12101006
+student_name: MD  ISTIAK UDDIN
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.85
+
+stdent_id: 12101007
+student_name: ABU RIFAT RAKIBUL
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.50
+
+stdent_id: 12101008
+student_name: MD. SANWAR HOSSAIN
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 2.98
+
+stdent_id: 12101009
+student_name: MD. ABDULLAH REZWAN
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.90
+
+stdent_id: 12101010
+student_name: MD. MARUF-UL-ISLAM RAHAT
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.85
+
+stdent_id: 12101011
+student_name: TAHIYA ARSHI
+student_gender: female
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.92
+
+stdent_id: 12101012
+student_name: FARIA AMIN
+student_gender: female
+student_age: 20
+student_year: 1st
+student_semester: 1st
+student_cgpa: 3.00
+
+stdent_id: 12202001
+student_name: BIDISHA HAQUE
+student_gender: female
+student_age: 21
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.25
+
+stdent_id: 12202002
+student_name: B M RAFAT AREFIN ALAM
+student_gender: male
+student_age: 22
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.90
+
+stdent_id: 12202003
+student_name: ASIM SHAHRIAR
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 2.98
+
+stdent_id: 12202004
+student_name: JARIN TASNIM
+student_gender: female
+student_age: 21
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.50
+
+stdent_id: 12202005
+student_name: MD. HABIBUL BASHAR
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.35
+
+stdent_id: 12202006
+student_name: MD. RABIOUS SEAJON
+student_gender: male
+student_age: 20
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.75
+
+stdent_id: 12202007
+student_name: ZUBAIR AHMED
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.65
+
+stdent_id: 12202008
+student_name: RAZIUN UDDIN AHMED CHOWDHURY
+student_gender: male
+student_age: 22
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.15
+
+stdent_id: 12202009
+student_name: SAADMAN SAYEED
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 2.98
+
+stdent_id: 12202010
+student_name: A. K. ALVI HAQUE
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.35
+
+stdent_id: 12202011
+student_name: MD.ABDULLAH-ALL-MABUD
+student_gender: male
+student_age: 22
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 3.55
+
+stdent_id: 12202012
+student_name: MD. SHAMIM MAHFUZ SNIGDHO
+student_gender: male
+student_age: 21
+student_year: 1st
+student_semester: 2nd
+student_cgpa: 4.00
+
+
+2nd year 1st semester
+
+
+stdent_id: 11101001
+student_name: TASNUVA KHAN DIA
+student_gender: female
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.45
+
+stdent_id: 11101002
+student_name: MD. SHAFIUR RAHMAN DIGANTA
+student_gender: male
+student_age: 21
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.33
+
+stdent_id: 11101003
+student_name: TANOY SAHA
+student_gender: female
+student_age: 21
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 2.66
+
+stdent_id: 11101004
+student_name: ABRAR AKHYER ABIR
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.00
+
+stdent_id: 11101005
+student_name: MD. YASIN ARAFAT DIP
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 2.80
+
+stdent_id: 11101006
+student_name: HAFSARUN NESSA
+student_gender: female
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.70
+
+stdent_id: 11101007
+student_name: NAHID HASAN AYON
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.40
+
+stdent_id: 11101008
+student_name: MD. RUHUL AMIN SHATU
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.48
+
+stdent_id: 11101009
+student_name: MD. MOHAIMINUL ISLAM
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.20
+
+stdent_id: 11101010
+student_name: IFRAHA FAIRUZ BINTE ILIAS
+student_gender: female
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.46
+
+stdent_id: 11101011
+student_name: AMIR AHAMMED
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.09
+
+stdent_id: 11101012
+student_name: MEHERUL ALAM SARKER
+student_gender: male
+student_age: 23
+student_year: 2nd
+student_semester: 1st
+student_cgpa: 3.98
+
+
+2nd year 2nd semester
+
+stdent_id: 11202001
+student_name: TANJIM AHMED RIFAT
+student_gender: male
+student_age: 23
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.12
+
+stdent_id: 11202002
+student_name: SAIMA ASHRAF
+student_gender: female
+student_age: 22
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.45
+
+stdent_id: 11202003
+student_name: MOHAMMAD AL-AMIN
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.91
+
+stdent_id: 11202004
+student_name: FATIN NOOR ANIK
+student_gender: male
+student_age: 23
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.00
+
+stdent_id: 11202005
+student_name: SHAWONUZZAMAN
+student_gender: male
+student_age: 23
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.08
+
+stdent_id: 11202006
+student_name: FABIHA MAHBUB
+student_gender: female
+student_age: 22
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.50
+
+stdent_id: 11202007
+student_name: MD. IRFANUZZAMAN
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.78
+
+stdent_id: 11202008
+student_name: MD. FAIYAD-UZ-ZAMAN
+student_gender: male
+student_age: 23
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.76
+
+stdent_id: 11202009
+student_name: NAZIFA ZAHID
+student_gender: female
+student_age: 23
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.20
+
+stdent_id: 11202010
+student_name: TOWQI TAHMID RAKIN
+student_gender: male
+student_age: 23
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 2.96
+
+stdent_id: 1202011
+student_name: MD. MUSHFIQUE US SALEHEEN
+student_gender: male
+student_age: 22
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 3.50
+
+stdent_id: 11202012
+student_name: SK.SEKANDER
+student_gender: male
+student_age: 23
+student_year: 2nd
+student_semester: 2nd
+student_cgpa: 2.76
+
+
+3rd year 1st semester
+
+stdent_id: 10101001
+student_name: NABILA NOWSHIN
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.76
+
+stdentid: 10101002
+student_name: NIGER SULTANA MOU
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.48
+
+stdent_id: 10101003
+student_name: K. M. ASRAFUZZAMAN RAJU
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.75
+
+stdent_id: 10101004
+student_name: RUBAIYAT SHABNAM
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 4.00
+
+stdent_id: 10101005
+student_name: ASAD-UZ-ZAMAN
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 2.88
+
+stdent_id: 10101006
+student_name: MOST. SHARMIN AKTER
+student_gender: female
+student_age: 22
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.00
+
+stdent_id: 10101007
+student_name: MD. NAHID NIWAZ SHISHIR
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.73
+
+stdent_id: 10101008
+student_name: NISHAT TASNIM
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 2.98
+
+stdent_id: 10101009
+student_name: SANJIDA ALI LIZA
+student_gender: female
+student_age: 22
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.46
+
+stdent_id: 10101010
+student_name: MD. MAHMODUL HASAN
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 4.00
+
+stdent_id: 10101011
+student_name: ALAVEE AHALAM
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.98
+
+stdent_id: 10101012
+student_name: IFFAT NOOR
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 1st
+student_cgpa: 3.00
+
+3rd year 2nd semester
+
+
+stdent_id: 10202001
+student_name: MD. WAHIDUL JANNAT
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 3.00
+
+stdent_id: 10202002
+student_name: BUSHRAT JAHAN SIDDIQUI
+student_gender: female
+student_age: 22
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 2.88
+
+stdent_id: 10202003
+student_name: MUHAMMAD FAISALUR RAHMAN
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 2.65
+
+stdent_id: 10202004
+student_name: SADIA AFRIN
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 2.50
+
+stdent_id: 10202005
+student_name: MOHAMMAD MAHABUBUL ABRAR
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 3.88
+
+stdent_id: 10202006
+student_name: MD. HANIF AL ASHAD
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 2.88
+
+stdent_id: 10202007
+student_name: ABU AL MURSALIN
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 3.98
+
+stdent_id: 10202008
+student_name: MD. JAHID HASAN
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 3.46
+
+stdent_id: 10202009
+student_name: OITIHYA GUHA TURJA
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+3.56
+
+stdent_id: 10202010
+student_name: SAMIN WASIF
+student_gender: male
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 4.00
+
+stdent_id: 10202011
+student_name: LUTFAN NAHAR MOHONA
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 3.35
+
+stdent_id: 10202012
+student_name: JANNATUN RAZIA
+student_gender: female
+student_age: 23
+student_year: 3rd
+student_semester: 2nd
+student_cgpa: 3.20
+
+
+4th year 1st semester
+
+
+stdent_id: 09101001
+student_name: G.M.KAISER AKASH
+student_gender: male
+student_age: 24
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.00
+
+stdent_id: 09101002
+student_name: TAPOSI RABEYA ISLAM
+student_gender: female
+student_age: 24
+student_year: 4th
+student_semester: 1st
+student_cgpa: 2.81
+
+stdentid: 09101003
+student_name: SONUM SABRIN
+student_gender: female
+student_age: 23
+student_year: 4th
+student_semester: 1st
+student_cgpa: 2.98
+
+stdent_id: 09101004
+student_name: FARHAT FERDOUS
+student_gender: male
+student_age: 24
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.50
+
+stdent_id: 09101005
+student_name: BIDITA TARAFDER
+student_gender: female
+student_age: 23
+student_year: 4th
+student_semester: 1st
+3.25
+
+stdent_id: 09101006
+student_name: MD. IMRUL KAYES PRANTA
+student_gender: male
+student_age: 24
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.75
+
+stdent_id: 09101007
+student_name: MD. NAFIUL ISLAM
+student_gender: male
+student_age: 24
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.71
+
+stdent_id: 09101008
+student_name:  RUDABA ZAMAN
+student_gender: female
+student_age: 23
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.65
+
+stdent_id: 09101009
+student_name: FOYSAL HUQUE TUSHER
+student_gender: male
+student_age: 24
+student_year: 4th
+student_semester: 1st
+3.35
+
+stdent_id: 09101010
+student_name: ARUNDHUTI BUSHRA
+student_gender: female
+student_age: 23
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.90
+
+stdent_id: 09101011
+student_name: A.S.M.ASHFAQ
+student_gender: male
+student_age: 24
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.55
+
+stdent_id: 09101012
+student_name: MD. ANISUR RAHMAN AKASH
+student_gender: male
+student_age: 23
+student_year: 4th
+student_semester: 1st
+student_cgpa: 3.25
+
+4th year 2nd semester
+
+stdent_id: 09202001
+student_name: FARAH ULFATH HEEYA
+student_gender: female
+student_age: 24
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.88
+
+stdent+id: 09202002
+student_name: SADIA AFRIN
+student_gender: female
+student_age: 24
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.75
+
+stdent_id: 09202003
+student_name: MD. SIRAJUM MUNIR PRINCE
+student_gender: male
+student_age: 25
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.90
+
+stdentid: 09202004
+student_name: NAZMUL HUDA
+student_gender: male
+student_age: 25
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.70
+
+stdent_id: 09202005
+student_name: NILMONI BUSHRA
+student_gender: female
+student_age: 24
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.50
+
+stdent_id: 09202006
+student_name: ARAFATH HOSSAIN MUNNA
+student_gender: male
+student_age: 25
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.75
+
+stdent_id: 09202007
+student_name: M.M.SAYEM SAKIB
+student_gender: male
+student_age: 25
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 2.98
+
+stdent_id: 09202008
+student_name: SADI MOHAMMAD HRIDOY
+student_gender: male
+student_age: 26
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.00
+
+stdent_id: 09202009
+student_name: SHER MOHAMMAD TOUFIQUE HASAN
+student_gender: male
+student_age: 25
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.50
+
+stdent_id: 09202010
+student_name: AMINA AMIN
+student_gender: female
+student_age: 24
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.25
+
+stdent_id: 09202011
+student_name: MD. SALMAN SHAHED
+student_gender: male
+student_age: 25
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.50
+
+stdent_id: 09202012
+student_name: SABINUL HAQUE SABBIR
+student_gender: male
+student_age: 25
+student_year: 4th
+student_semester: 2nd
+student_cgpa: 3.45

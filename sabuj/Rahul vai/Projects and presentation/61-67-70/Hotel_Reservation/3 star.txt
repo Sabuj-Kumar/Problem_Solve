@@ -1,0 +1,49 @@
+Hotel_Name:Hotel Washington Dhaka
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Hotel Rose garden
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Hotel Victory
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Hotel White House
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Hotel Civic Inn
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Hotel Swiss park
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Asia Pacific Hotel
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Sweet Dream
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Royel park residence
+Room:85
+price:85$
+contact:01712345678
+
+Hotel_Name:Swiss Garden
+Room:85
+price:85$
+contact:01712345678

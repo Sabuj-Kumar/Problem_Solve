@@ -1,0 +1,9 @@
+if (window['google'] != undefined && window['google']['loader'] != undefined) {
+if (!window['google']['ads']) {
+window['google']['ads'] = {};
+google.ads.Version = '1.0';
+google.ads.JSHash = 'ad2918078bd3494939c05a9bfdadc247';
+google.ads.LoadArgs = 'file\75ads\46v\0751\46async\0752';
+}
+google.loader.writeLoadTag("script", google.loader.ServiceBase + "/api/ads/1.0/ad2918078bd3494939c05a9bfdadc247/default.I.js", true);
+}

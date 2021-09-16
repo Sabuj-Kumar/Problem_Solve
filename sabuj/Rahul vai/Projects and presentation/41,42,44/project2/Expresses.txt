@@ -1,0 +1,14 @@
+            ********** EXPRESS CATEGORY ***********
+
+1.SHAMOLY
+ 2.HANIF
+  3.NABIL
+   4.BABLU
+    5.EAGLE
+     6.SHOHAG
+      7.GREEN_LINE
+       8.SA_PARIBAHAN
+        9.AK_TRAVELS
+         10.RAHBER
+
+Choose your express_name by pressing number....(1 - 10)

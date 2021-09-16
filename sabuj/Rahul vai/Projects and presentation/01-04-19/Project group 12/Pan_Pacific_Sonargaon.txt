@@ -1,0 +1,59 @@
+Branch_Name:Motijheel
+room_count:100
+Price:4000 tk
+contact:01674990756
+c_list:
+
+Branch_Name:Uttara
+room_count:100
+Price:2500 tk
+contact:01684560784
+c_list:
+
+Branch_Name:Dhanmondi
+room_count:100
+Price:2200 tk
+contact:01775674854
+c_list:
+
+Branch_Name:Gulshan
+room_count:100
+Price:4000 tk
+contact:01675445545
+c_list:
+
+Branch_Name:banani
+room_count:100
+Price:2500 tk
+contact:01674845756
+c_list:
+
+Branch_Name:Mirpur
+room_count:100
+Price:1000 tk
+contact:01584990756
+c_list:
+
+Branch_Name:Baridhara
+room_count:100
+Price:3800 tk
+contact:01674948565
+c_list:
+
+Branch_Name:Mohammodpur
+room_count:100
+Price:1500 tk
+contact:01847595868
+c_list:
+
+Branch_Name:shamoli
+room_count:100
+Price:1000 tk
+contact:01748990756
+c_list:
+
+Branch_Name:khilgaon
+room_count:100
+Price:4000tk
+contact:01674990756
+c_list:

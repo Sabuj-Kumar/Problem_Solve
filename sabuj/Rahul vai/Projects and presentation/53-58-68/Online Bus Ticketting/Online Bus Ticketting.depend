@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395079359 source:c:\users\sholoana\desktop\online bus ticketting\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

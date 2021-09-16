@@ -1,0 +1,41 @@
+bus_name:EAGLE 01
+Depart. time:8.00 AM
+Root Name:DHK - KHL
+Fare:520
+Seat Avail.:40;
+
+bus_name:EAGLE 02
+Depart. time:9.00 AM
+Root Name:DHK - RANG
+Fare:520
+Seat Avail.:40;
+
+bus_name:EAGLE 03
+Depart. time:1.30 PM
+Root Name:DHK - SYL
+Fare:520
+Seat Avail.:40;
+
+bus_name:EAGLE 04
+Depart. time:8.30 PM
+Root Name:DHK - RAJ
+Fare:520
+Seat Avail.:40;
+
+bus_name:EAGLE 05
+Depart. time:9.30 PM
+Root Name:DHK - COM
+Fare:520
+Seat Avail.:40;
+
+bus_name:EAGLE 06
+Depart. time:10.30 PM
+Root Name:DHK - CHT
+Fare:520
+Seat Avail.:40;
+
+bus_name:EAGLE 07
+Depart. time:11.30 PM
+Root Name:DHK - BAR
+Fare:520
+Seat Avail.:40;

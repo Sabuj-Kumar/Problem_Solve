@@ -1,0 +1,69 @@
+book_name      : Applied Discrete Structures 
+author_name    : Al Doerr, Ken Levasseur
+publisher_name : Lulu.com
+book_id        : 041
+count          : 10
+borrower_id    :
+
+book_name      : Exploring Discrete Mathematics Using Maple 
+author_name    : Kenneth H. Rosen
+publisher_name : Mcgraw-Hill College
+book_id        : 042
+count          : 10
+borrower_id    :
+
+book_name      : Discrete Mathematics for Computer Science 
+author_name    : Jean Gallier
+publisher_name : arXiv
+book_id        : 043
+count          : 10
+borrower_id    :
+
+book_name      : Discrete Structures 
+author_name    : Vladlen Koltun
+publisher_name : Stanford University
+book_id        : 044
+count          : 10
+borrower_id    :
+
+book_name      : Discrete Mathematics with Algorithms 
+author_name    : M.O. Albertson, J.P. Hutchinson 
+publisher_name : J. Wiley
+book_id        : 045
+count          : 10
+borrower_id    :
+
+book_name      : Elementary Computer Mathematics 
+author_name    : Kenneth R. Koehler 
+publisher_name : University of Cincinnati Blue Ash College
+book_id        : 046
+count          : 10
+borrower_id    :
+
+book_name      : Topics in Discrete Mathematics 
+author_name    : A.F. Pixley 
+publisher_name : Harvey Mudd College
+book_id        : 047
+count          : 10
+borrower_id    :
+
+book_name      : Applied Finite Mathematics 
+author_name    : Rupinder Sekhon 
+publisher_name : Connexions
+book_id        : 048
+count          : 10
+borrower_id    :
+
+book_name      : Lecture Notes in Discrete Mathematics 
+author_name    : Marcel B. Finan
+publisher_name : Arkansas Tech University
+book_id        : 049
+count          : 10
+borrower_id    :
+
+book_name      : Mathematics for Computer Science 
+author_name    : Eric Lehman, F Thomson Leighton, Albert R Meyer
+publisher_name : MIT 
+book_id        : 050
+count          : 10
+borrower_id    :

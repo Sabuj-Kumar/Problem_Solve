@@ -1,0 +1,6 @@
+down: Niche
+up: Upore
+left: Bam
+right: Dan
+box: Baksho
+table: Choupaya

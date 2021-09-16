@@ -1,0 +1,19 @@
+
+                           ************AIR TICKET COUNTER**********
+
+                           *****NAME OF AIRLINES*****
+
+
+                           1.Emirates Airline
+
+  
+                           2.AirAsia
+
+    
+                           3.Air China
+
+
+                           4.LAN Airlines
+
+
+                           5.British Airlines

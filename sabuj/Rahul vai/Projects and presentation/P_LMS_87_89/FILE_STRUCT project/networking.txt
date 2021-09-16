@@ -1,0 +1,29 @@
+book_name:A Practical Approach to Corporate Networks Engineering 
+author:Antonio Nogueira
+publisher:River Publishers 
+book_id:301
+stock:10;
+
+book_name:Network security
+author:Charlie Kaufman 
+publisher:MacGra-hill
+book_id:302
+stock:20;
+
+book_name:How to REALLY use LinkedIn
+author:Jan Vermeiren
+publisher:Amazon
+book_id:303
+stock:30;
+
+book_name:Professional Networking For Dummies
+author:Donna Fisher
+publisher:Amazon
+book_id:304
+stock:40;
+
+book_name:Get More Referrals Now!
+author:Bill Cates
+publisher:Amazon
+book_id:305
+stock:20;

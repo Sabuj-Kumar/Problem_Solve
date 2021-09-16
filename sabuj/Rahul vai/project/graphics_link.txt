@@ -1,0 +1,4 @@
+process:
+http://rekursed.blogspot.com/2012/03/how-to-include-graphicsh-in-codeblocks.html
+
+http://www.programmingsimplified.com/c-graphics-programming-tutorial

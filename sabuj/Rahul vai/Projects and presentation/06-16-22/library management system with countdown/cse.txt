@@ -1,0 +1,71 @@
+book_name      : The C Programming Language
+author_name    : Brian W. Kernighan, Dennis M. Ritchie 
+publisher_name : Prentice Hall
+book_id        : 001
+count          : 10
+borrower_id    :
+
+book_name      : Elements of Reusable Object-Oriented Software
+author_name    : Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm 
+publisher_name : Addison-Wesley Professional 
+book_id        : 002
+count          : 10
+borrower_id    :
+
+book_name      : Structure and Interpretation of Computer Programs  
+author_name    : Harold Abelson, Gerald Jay Sussman, Julie Sussman 
+publisher_name : MIT Press (MA)
+book_id        : 003
+count          : 10
+borrower_id    :
+
+book_name      : The C Programming Language 
+author_name    : Brian W. Kernighan, Dennis M. Ritchie 
+publisher_name : Prentice Hall
+book_id        : 004
+count          : 10
+borrower_id    :
+
+book_name      : The Pragmatic Programmer: From Journeyman to Master
+author_name    : Andrew Hunt, David Thomas 
+publisher_name : Addison-Wesley Professional 
+book_id        : 005
+count          : 10
+borrower_id    :
+
+book_name      : Code Complete 
+author_name    : Steve McConnell 
+publisher_name : Microsoft Press
+book_id        : 006
+count          : 10
+borrower_id    :
+
+book_name      : Improving the Design of Existing Code
+author_name    : Martin Fowler, Kent Beck, Don Roberts 
+publisher_name : Addison-Wesley Professional 
+book_id        : 007
+count          : 10
+borrower_id    :
+
+book_name      : Introduction to the Theory of Computation
+author_name    : Michael Sipser 
+publisher_name : Cengage Learning
+book_id        : 008
+count          : 10
+borrower_id    :
+
+book_name      : The C++ Programming Language
+author_name    : Bjarne Stroustrup 
+publisher_name : Addison-Wesley Professional
+book_id        : 009
+count          : 10
+borrower_id    :
+
+book_name      : Effective Java Programming Language Guide
+author_name    : Joshua Bloch, Guy L. Steele Jr
+publisher_name : Addison-Wesley Professional 
+book_id        : 010
+count          : 10
+borrower_id    :
+
+

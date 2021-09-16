@@ -1,0 +1,848 @@
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : The Music of the Primes
+AUTHOR NAME     : Marcus du Sautoy
+PUBLISHER NAME  : Harper Perennial 
+BOOK ID         :21
+
+BOOK NAME       : Cosmic Complexity and the Limits of Scientific Knowledge 
+AUTHOR NAME     : William Poundstone
+PUBLISHER NAME  : McGraw-Hill/Contemporary
+BOOK ID         :22
+
+BOOK NAME       : The Principles of Mathematics 
+AUTHOR NAME     : Bertrand Russell
+PUBLISHER NAME  : W. W. Norton & Company
+BOOK ID         :23
+
+BOOK NAME       : What Is Mathematics? An Elementary Approach to Ideas and Methods
+AUTHOR NAME     : Richard Courant, Ian Stewart 
+PUBLISHER NAME  : Oxford University Press, USA 
+BOOK ID         :24
+
+BOOK NAME       : A Beautiful Mind 
+AUTHOR NAME     : Sylvia Nasar
+PUBLISHER NAME  : Faber and Faber
+BOOK ID         :25
+
+BOOK NAME       : The Biography of a Dangerous Idea
+AUTHOR NAME     : Charles Seife
+PUBLISHER NAME  : Penguin
+BOOK ID         :26
+
+BOOK NAME       : A Life of the Genius Ramanujan 
+AUTHOR NAME     : Robert Kanigel
+PUBLISHER NAME  : Abacus
+BOOK ID         :27
+
+BOOK NAME       : The Great Theorems of Mathematics 
+AUTHOR NAME     : William Dunham
+PUBLISHER NAME  : Penguin Books
+BOOK ID         :28
+
+BOOK NAME       : The Epic Quest to Solve the World's Greatest Mathematical Problem
+AUTHOR NAME     : Simon Singh
+PUBLISHER NAME  : Anchor 
+BOOK ID         :29
+
+BOOK NAME       : An Eternal Golden Braid 
+AUTHOR NAME     : Douglas R. Hofstadter 
+PUBLISHER NAME  : Basic Books
+BOOK ID         :30
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : A Brief History of Time
+AUTHOR NAME     : Stephen Hawking 
+PUBLISHER NAME  : Bantam Books
+BOOK ID         :11
+
+BOOK NAME       : The Fabric of the Cosmos (Space, Time, and the Texture of Reality)
+AUTHOR NAME     : Brian Greene 
+PUBLISHER NAME  : Alfred Knopf
+BOOK ID         :12
+
+BOOK NAME       : A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel
+AUTHOR NAME     : Michio Kaku  
+PUBLISHER NAME  : Doubleday
+BOOK ID         :13
+
+BOOK NAME       : Essentials of Physics By Its Most Brilliant Teacher
+AUTHOR NAME     : Richard P. Feynman  
+PUBLISHER NAME  : Basic Books
+BOOK ID         :14
+
+BOOK NAME       : The Feynman Lectures on Physics 
+AUTHOR NAME     : Richard P. Feynman, Robert B. Leighton, Matthew L. Sands  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :15
+
+BOOK NAME       : The Universe in a Nutshell
+AUTHOR NAME     : Stephen Hawking  
+PUBLISHER NAME  : Bantam 
+BOOK ID         :16
+
+BOOK NAME       : Parallel Universes and the Deep Laws of the Cosmos
+AUTHOR NAME     : Brian Greene  
+PUBLISHER NAME  : Knopf 
+BOOK ID         :17
+
+BOOK NAME       : Introduction to Electrodynamics
+AUTHOR NAME     : David J. Griffiths  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :18
+
+BOOK NAME       : The Physics of Star Trek
+AUTHOR NAME     : Lawrence M. Krauss, Stephen Hawking  
+PUBLISHER NAME  : Basic Books 
+BOOK ID         :19
+
+BOOK NAME       : The Revolution in Modern Science
+AUTHOR NAME     : Werner Heisenberg  
+PUBLISHER NAME  : Penguin Classics 
+BOOK ID         :20
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : A Brief History of Time
+AUTHOR NAME     : Stephen Hawking 
+PUBLISHER NAME  : Bantam Books
+BOOK ID         :11
+
+BOOK NAME       : The Fabric of the Cosmos (Space, Time, and the Texture of Reality)
+AUTHOR NAME     : Brian Greene 
+PUBLISHER NAME  : Alfred Knopf
+BOOK ID         :12
+
+BOOK NAME       : A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel
+AUTHOR NAME     : Michio Kaku  
+PUBLISHER NAME  : Doubleday
+BOOK ID         :13
+
+BOOK NAME       : Essentials of Physics By Its Most Brilliant Teacher
+AUTHOR NAME     : Richard P. Feynman  
+PUBLISHER NAME  : Basic Books
+BOOK ID         :14
+
+BOOK NAME       : The Feynman Lectures on Physics 
+AUTHOR NAME     : Richard P. Feynman, Robert B. Leighton, Matthew L. Sands  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :15
+
+BOOK NAME       : The Universe in a Nutshell
+AUTHOR NAME     : Stephen Hawking  
+PUBLISHER NAME  : Bantam 
+BOOK ID         :16
+
+BOOK NAME       : Parallel Universes and the Deep Laws of the Cosmos
+AUTHOR NAME     : Brian Greene  
+PUBLISHER NAME  : Knopf 
+BOOK ID         :17
+
+BOOK NAME       : Introduction to Electrodynamics
+AUTHOR NAME     : David J. Griffiths  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :18
+
+BOOK NAME       : The Physics of Star Trek
+AUTHOR NAME     : Lawrence M. Krauss, Stephen Hawking  
+PUBLISHER NAME  : Basic Books 
+BOOK ID         :19
+
+BOOK NAME       : The Revolution in Modern Science
+AUTHOR NAME     : Werner Heisenberg  
+PUBLISHER NAME  : Penguin Classics 
+BOOK ID         :20
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : Ender's Game
+AUTHOR NAME     : Orson Scott Card 
+PUBLISHER NAME  : Tor Science Fiction
+BOOK ID         :91
+
+BOOK NAME       : The Hitchhiker's Guide to the Galaxy  
+AUTHOR NAME     : Douglas Adams 
+PUBLISHER NAME  : Del Rey
+BOOK ID         :92
+
+BOOK NAME       : Dune
+AUTHOR NAME     : Frank Herbert 
+PUBLISHER NAME  : Hodder Paperback
+BOOK ID         :93
+
+BOOK NAME       : The Hunger Games
+AUTHOR NAME     : Suzanne Collins 
+PUBLISHER NAME  : Scholastic Press
+BOOK ID         :94
+
+BOOK NAME       : 1984 
+AUTHOR NAME     : George Orwell, Erich Fromm
+PUBLISHER NAME  : Signet Classic 
+BOOK ID         :95
+
+BOOK NAME       : Brave New World 
+AUTHOR NAME     : Aldous Huxley  
+PUBLISHER NAME  : Harper Perennial Modern Classics
+BOOK ID         :96
+
+BOOK NAME       : Foundation
+AUTHOR NAME     : Isaac Asimov  
+PUBLISHER NAME  : Spectra
+BOOK ID         :97
+
+BOOK NAME       : Fahrenheit 451 
+AUTHOR NAME     : Ray Bradbury  
+PUBLISHER NAME  : Harper Voyager
+BOOK ID         :98
+
+BOOK NAME       : The Archived
+AUTHOR NAME     : Victoria Schwab  
+PUBLISHER NAME  : Hyperion 
+BOOK ID         :99
+
+BOOK NAME       : Ready Player One
+AUTHOR NAME     : Ernest Cline  
+PUBLISHER NAME  : Random House NY
+BOOK ID         :100
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : A Brief History of Time
+AUTHOR NAME     : Stephen Hawking 
+PUBLISHER NAME  : Bantam Books
+BOOK ID         :11
+
+BOOK NAME       : The Fabric of the Cosmos (Space, Time, and the Texture of Reality)
+AUTHOR NAME     : Brian Greene 
+PUBLISHER NAME  : Alfred Knopf
+BOOK ID         :12
+
+BOOK NAME       : A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel
+AUTHOR NAME     : Michio Kaku  
+PUBLISHER NAME  : Doubleday
+BOOK ID         :13
+
+BOOK NAME       : Essentials of Physics By Its Most Brilliant Teacher
+AUTHOR NAME     : Richard P. Feynman  
+PUBLISHER NAME  : Basic Books
+BOOK ID         :14
+
+BOOK NAME       : The Feynman Lectures on Physics 
+AUTHOR NAME     : Richard P. Feynman, Robert B. Leighton, Matthew L. Sands  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :15
+
+BOOK NAME       : The Universe in a Nutshell
+AUTHOR NAME     : Stephen Hawking  
+PUBLISHER NAME  : Bantam 
+BOOK ID         :16
+
+BOOK NAME       : Parallel Universes and the Deep Laws of the Cosmos
+AUTHOR NAME     : Brian Greene  
+PUBLISHER NAME  : Knopf 
+BOOK ID         :17
+
+BOOK NAME       : Introduction to Electrodynamics
+AUTHOR NAME     : David J. Griffiths  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :18
+
+BOOK NAME       : The Physics of Star Trek
+AUTHOR NAME     : Lawrence M. Krauss, Stephen Hawking  
+PUBLISHER NAME  : Basic Books 
+BOOK ID         :19
+
+BOOK NAME       : The Revolution in Modern Science
+AUTHOR NAME     : Werner Heisenberg  
+PUBLISHER NAME  : Penguin Classics 
+BOOK ID         :20
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : A Brief History of Time
+AUTHOR NAME     : Stephen Hawking 
+PUBLISHER NAME  : Bantam Books
+BOOK ID         :11
+
+BOOK NAME       : The Fabric of the Cosmos (Space, Time, and the Texture of Reality)
+AUTHOR NAME     : Brian Greene 
+PUBLISHER NAME  : Alfred Knopf
+BOOK ID         :12
+
+BOOK NAME       : A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel
+AUTHOR NAME     : Michio Kaku  
+PUBLISHER NAME  : Doubleday
+BOOK ID         :13
+
+BOOK NAME       : Essentials of Physics By Its Most Brilliant Teacher
+AUTHOR NAME     : Richard P. Feynman  
+PUBLISHER NAME  : Basic Books
+BOOK ID         :14
+
+BOOK NAME       : The Feynman Lectures on Physics 
+AUTHOR NAME     : Richard P. Feynman, Robert B. Leighton, Matthew L. Sands  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :15
+
+BOOK NAME       : The Universe in a Nutshell
+AUTHOR NAME     : Stephen Hawking  
+PUBLISHER NAME  : Bantam 
+BOOK ID         :16
+
+BOOK NAME       : Parallel Universes and the Deep Laws of the Cosmos
+AUTHOR NAME     : Brian Greene  
+PUBLISHER NAME  : Knopf 
+BOOK ID         :17
+
+BOOK NAME       : Introduction to Electrodynamics
+AUTHOR NAME     : David J. Griffiths  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :18
+
+BOOK NAME       : The Physics of Star Trek
+AUTHOR NAME     : Lawrence M. Krauss, Stephen Hawking  
+PUBLISHER NAME  : Basic Books 
+BOOK ID         :19
+
+BOOK NAME       : The Revolution in Modern Science
+AUTHOR NAME     : Werner Heisenberg  
+PUBLISHER NAME  : Penguin Classics 
+BOOK ID         :20
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : A Brief History of Time
+AUTHOR NAME     : Stephen Hawking 
+PUBLISHER NAME  : Bantam Books
+BOOK ID         :11
+
+BOOK NAME       : The Fabric of the Cosmos (Space, Time, and the Texture of Reality)
+AUTHOR NAME     : Brian Greene 
+PUBLISHER NAME  : Alfred Knopf
+BOOK ID         :12
+
+BOOK NAME       : A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel
+AUTHOR NAME     : Michio Kaku  
+PUBLISHER NAME  : Doubleday
+BOOK ID         :13
+
+BOOK NAME       : Essentials of Physics By Its Most Brilliant Teacher
+AUTHOR NAME     : Richard P. Feynman  
+PUBLISHER NAME  : Basic Books
+BOOK ID         :14
+
+BOOK NAME       : The Feynman Lectures on Physics 
+AUTHOR NAME     : Richard P. Feynman, Robert B. Leighton, Matthew L. Sands  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :15
+
+BOOK NAME       : The Universe in a Nutshell
+AUTHOR NAME     : Stephen Hawking  
+PUBLISHER NAME  : Bantam 
+BOOK ID         :16
+
+BOOK NAME       : Parallel Universes and the Deep Laws of the Cosmos
+AUTHOR NAME     : Brian Greene  
+PUBLISHER NAME  : Knopf 
+BOOK ID         :17
+
+BOOK NAME       : Introduction to Electrodynamics
+AUTHOR NAME     : David J. Griffiths  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :18
+
+BOOK NAME       : The Physics of Star Trek
+AUTHOR NAME     : Lawrence M. Krauss, Stephen Hawking  
+PUBLISHER NAME  : Basic Books 
+BOOK ID         :19
+
+BOOK NAME       : The Revolution in Modern Science
+AUTHOR NAME     : Werner Heisenberg  
+PUBLISHER NAME  : Penguin Classics 
+BOOK ID         :20
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : The C Programming Language
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :1
+
+BOOK NAME       : Elements of Reusable Object-Oriented Software
+AUTHOR NAME     : Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :2
+
+BOOK NAME       : Structure and Interpretation of Computer Programs  
+AUTHOR NAME     : Harold Abelson, Gerald Jay Sussman, Julie Sussman 
+PUBLISHER NAME  : MIT Press (MA)
+BOOK ID         :3
+
+BOOK NAME       : The C Programming Language 
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :4
+
+BOOK NAME       : From Journeyman to Master
+AUTHOR NAME     : Andrew Hunt, David Thomas 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :5
+
+BOOK NAME       : Code Complete 
+AUTHOR NAME     : Steve McConnell 
+PUBLISHER NAME  : Microsoft Press
+BOOK ID         :6
+
+BOOK NAME       : Improving the Design of Existing Code
+AUTHOR NAME     : Martin Fowler, Kent Beck, Don Roberts 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :7
+
+BOOK NAME       : Introduction to the Theory of Computation
+AUTHOR NAME     : Michael Sipser 
+PUBLISHER NAME  : Cengage Learning
+BOOK ID         :8
+
+BOOK NAME       : The C++ Programming Language
+AUTHOR NAME     : Bjarne Stroustrup 
+PUBLISHER NAME  : Addison-Wesley Professional
+BOOK ID         :9
+
+BOOK NAME       : Effective Java Programming Language Guide
+AUTHOR NAME     : Joshua Bloch, Guy L. Steele Jr
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :10
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : The Music of the Primes
+AUTHOR NAME     : Marcus du Sautoy
+PUBLISHER NAME  : Harper Perennial 
+BOOK ID         :21
+
+BOOK NAME       : Cosmic Complexity and the Limits of Scientific Knowledge 
+AUTHOR NAME     : William Poundstone
+PUBLISHER NAME  : McGraw-Hill/Contemporary
+BOOK ID         :22
+
+BOOK NAME       : The Principles of Mathematics 
+AUTHOR NAME     : Bertrand Russell
+PUBLISHER NAME  : W. W. Norton & Company
+BOOK ID         :23
+
+BOOK NAME       : What Is Mathematics? An Elementary Approach to Ideas and Methods
+AUTHOR NAME     : Richard Courant, Ian Stewart 
+PUBLISHER NAME  : Oxford University Press, USA 
+BOOK ID         :24
+
+BOOK NAME       : A Beautiful Mind 
+AUTHOR NAME     : Sylvia Nasar
+PUBLISHER NAME  : Faber and Faber
+BOOK ID         :25
+
+BOOK NAME       : The Biography of a Dangerous Idea
+AUTHOR NAME     : Charles Seife
+PUBLISHER NAME  : Penguin
+BOOK ID         :26
+
+BOOK NAME       : A Life of the Genius Ramanujan 
+AUTHOR NAME     : Robert Kanigel
+PUBLISHER NAME  : Abacus
+BOOK ID         :27
+
+BOOK NAME       : The Great Theorems of Mathematics 
+AUTHOR NAME     : William Dunham
+PUBLISHER NAME  : Penguin Books
+BOOK ID         :28
+
+BOOK NAME       : The Epic Quest to Solve the World's Greatest Mathematical Problem
+AUTHOR NAME     : Simon Singh
+PUBLISHER NAME  : Anchor 
+BOOK ID         :29
+
+BOOK NAME       : An Eternal Golden Braid 
+AUTHOR NAME     : Douglas R. Hofstadter 
+PUBLISHER NAME  : Basic Books
+BOOK ID         :30
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : The C Programming Language
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :1
+
+BOOK NAME       : Elements of Reusable Object-Oriented Software
+AUTHOR NAME     : Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :2
+
+BOOK NAME       : Structure and Interpretation of Computer Programs  
+AUTHOR NAME     : Harold Abelson, Gerald Jay Sussman, Julie Sussman 
+PUBLISHER NAME  : MIT Press (MA)
+BOOK ID         :3
+
+BOOK NAME       : The C Programming Language 
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :4
+
+BOOK NAME       : From Journeyman to Master
+AUTHOR NAME     : Andrew Hunt, David Thomas 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :5
+
+BOOK NAME       : Code Complete 
+AUTHOR NAME     : Steve McConnell 
+PUBLISHER NAME  : Microsoft Press
+BOOK ID         :6
+
+BOOK NAME       : Improving the Design of Existing Code
+AUTHOR NAME     : Martin Fowler, Kent Beck, Don Roberts 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :7
+
+BOOK NAME       : Introduction to the Theory of Computation
+AUTHOR NAME     : Michael Sipser 
+PUBLISHER NAME  : Cengage Learning
+BOOK ID         :8
+
+BOOK NAME       : The C++ Programming Language
+AUTHOR NAME     : Bjarne Stroustrup 
+PUBLISHER NAME  : Addison-Wesley Professional
+BOOK ID         :9
+
+BOOK NAME       : Effective Java Programming Language Guide
+AUTHOR NAME     : Joshua Bloch, Guy L. Steele Jr
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :10
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : A Brief History of Time
+AUTHOR NAME     : Stephen Hawking 
+PUBLISHER NAME  : Bantam Books
+BOOK ID         :11
+
+BOOK NAME       : The Fabric of the Cosmos (Space, Time, and the Texture of Reality)
+AUTHOR NAME     : Brian Greene 
+PUBLISHER NAME  : Alfred Knopf
+BOOK ID         :12
+
+BOOK NAME       : A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel
+AUTHOR NAME     : Michio Kaku  
+PUBLISHER NAME  : Doubleday
+BOOK ID         :13
+
+BOOK NAME       : Essentials of Physics By Its Most Brilliant Teacher
+AUTHOR NAME     : Richard P. Feynman  
+PUBLISHER NAME  : Basic Books
+BOOK ID         :14
+
+BOOK NAME       : The Feynman Lectures on Physics 
+AUTHOR NAME     : Richard P. Feynman, Robert B. Leighton, Matthew L. Sands  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :15
+
+BOOK NAME       : The Universe in a Nutshell
+AUTHOR NAME     : Stephen Hawking  
+PUBLISHER NAME  : Bantam 
+BOOK ID         :16
+
+BOOK NAME       : Parallel Universes and the Deep Laws of the Cosmos
+AUTHOR NAME     : Brian Greene  
+PUBLISHER NAME  : Knopf 
+BOOK ID         :17
+
+BOOK NAME       : Introduction to Electrodynamics
+AUTHOR NAME     : David J. Griffiths  
+PUBLISHER NAME  : Addison Wesley 
+BOOK ID         :18
+
+BOOK NAME       : The Physics of Star Trek
+AUTHOR NAME     : Lawrence M. Krauss, Stephen Hawking  
+PUBLISHER NAME  : Basic Books 
+BOOK ID         :19
+
+BOOK NAME       : The Revolution in Modern Science
+AUTHOR NAME     : Werner Heisenberg  
+PUBLISHER NAME  : Penguin Classics 
+BOOK ID         :20
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : Understanding and Using English Grammar 
+AUTHOR NAME     : Betty Schrampfer Azar 
+PUBLISHER NAME  : Pearson PTR Interactive
+BOOK ID         :31
+
+BOOK NAME       : The Grammarphobe's Guide to Better English in Plain English 
+AUTHOR NAME     : Patricia T. O'Conner 
+PUBLISHER NAME  : Riverhead Trade 
+BOOK ID         :32
+
+BOOK NAME       : The Zero Tolerance Approach to Punctuation
+AUTHOR NAME     : Lynne Truss 
+PUBLISHER NAME  : The Penguin Group
+BOOK ID         :33
+
+BOOK NAME       : Advanced Grammar in Use
+AUTHOR NAME     : Martin Hewings 
+PUBLISHER NAME  : Cambridge University Press
+BOOK ID         :34
+
+BOOK NAME       : A Communicative Grammar of English 
+AUTHOR NAME     : Geoffrey N. Leech, Jan Svartvik 
+PUBLISHER NAME  : Pearson Longman 
+BOOK ID         :35
+
+BOOK NAME       : A Grammar Practice Book
+AUTHOR NAME     : Walter Swan
+PUBLISHER NAME  : Oxford University Press, USA 
+BOOK ID         :36
+
+BOOK NAME       : Practical English Usage 
+AUTHOR NAME     : Michael Swan
+PUBLISHER NAME  : Cornelsen & Oxford University Press 
+BOOK ID         :37
+
+BOOK NAME       : The Elements of Style 
+AUTHOR NAME     : William Strunk Jr., E.B. White 
+PUBLISHER NAME  : Longman
+BOOK ID         :38
+
+BOOK NAME       : The Handbook of Good English
+AUTHOR NAME     : Edward D. Johnson
+PUBLISHER NAME  : Washington Square Press 
+BOOK ID         :39
+
+BOOK NAME       : Fundamentals of English Grammar 
+AUTHOR NAME     : Betty Schrampfer Azar
+PUBLISHER NAME  : Regents/Prentice Hall 
+BOOK ID         :40
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : Understanding and Using English Grammar 
+AUTHOR NAME     : Betty Schrampfer Azar 
+PUBLISHER NAME  : Pearson PTR Interactive
+BOOK ID         :31
+
+BOOK NAME       : The Grammarphobe's Guide to Better English in Plain English 
+AUTHOR NAME     : Patricia T. O'Conner 
+PUBLISHER NAME  : Riverhead Trade 
+BOOK ID         :32
+
+BOOK NAME       : The Zero Tolerance Approach to Punctuation
+AUTHOR NAME     : Lynne Truss 
+PUBLISHER NAME  : The Penguin Group
+BOOK ID         :33
+
+BOOK NAME       : Advanced Grammar in Use
+AUTHOR NAME     : Martin Hewings 
+PUBLISHER NAME  : Cambridge University Press
+BOOK ID         :34
+
+BOOK NAME       : A Communicative Grammar of English 
+AUTHOR NAME     : Geoffrey N. Leech, Jan Svartvik 
+PUBLISHER NAME  : Pearson Longman 
+BOOK ID         :35
+
+BOOK NAME       : A Grammar Practice Book
+AUTHOR NAME     : Walter Swan
+PUBLISHER NAME  : Oxford University Press, USA 
+BOOK ID         :36
+
+BOOK NAME       : Practical English Usage 
+AUTHOR NAME     : Michael Swan
+PUBLISHER NAME  : Cornelsen & Oxford University Press 
+BOOK ID         :37
+
+BOOK NAME       : The Elements of Style 
+AUTHOR NAME     : William Strunk Jr., E.B. White 
+PUBLISHER NAME  : Longman
+BOOK ID         :38
+
+BOOK NAME       : The Handbook of Good English
+AUTHOR NAME     : Edward D. Johnson
+PUBLISHER NAME  : Washington Square Press 
+BOOK ID         :39
+
+BOOK NAME       : Fundamentals of English Grammar 
+AUTHOR NAME     : Betty Schrampfer Azar
+PUBLISHER NAME  : Regents/Prentice Hall 
+BOOK ID         :40
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : The C Programming Language
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :1
+
+BOOK NAME       : Elements of Reusable Object-Oriented Software
+AUTHOR NAME     : Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :2
+
+BOOK NAME       : Structure and Interpretation of Computer Programs  
+AUTHOR NAME     : Harold Abelson, Gerald Jay Sussman, Julie Sussman 
+PUBLISHER NAME  : MIT Press (MA)
+BOOK ID         :3
+
+BOOK NAME       : The C Programming Language 
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :4
+
+BOOK NAME       : From Journeyman to Master
+AUTHOR NAME     : Andrew Hunt, David Thomas 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :5
+
+BOOK NAME       : Code Complete 
+AUTHOR NAME     : Steve McConnell 
+PUBLISHER NAME  : Microsoft Press
+BOOK ID         :6
+
+BOOK NAME       : Improving the Design of Existing Code
+AUTHOR NAME     : Martin Fowler, Kent Beck, Don Roberts 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :7
+
+BOOK NAME       : Introduction to the Theory of Computation
+AUTHOR NAME     : Michael Sipser 
+PUBLISHER NAME  : Cengage Learning
+BOOK ID         :8
+
+BOOK NAME       : The C++ Programming Language
+AUTHOR NAME     : Bjarne Stroustrup 
+PUBLISHER NAME  : Addison-Wesley Professional
+BOOK ID         :9
+
+BOOK NAME       : Effective Java Programming Language Guide
+AUTHOR NAME     : Joshua Bloch, Guy L. Steele Jr
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :10
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : The C Programming Language
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :1
+
+BOOK NAME       : Elements of Reusable Object-Oriented Software
+AUTHOR NAME     : Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :2
+
+BOOK NAME       : Structure and Interpretation of Computer Programs  
+AUTHOR NAME     : Harold Abelson, Gerald Jay Sussman, Julie Sussman 
+PUBLISHER NAME  : MIT Press (MA)
+BOOK ID         :3
+
+BOOK NAME       : The C Programming Language 
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :4
+
+BOOK NAME       : From Journeyman to Master
+AUTHOR NAME     : Andrew Hunt, David Thomas 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :5
+
+BOOK NAME       : Code Complete 
+AUTHOR NAME     : Steve McConnell 
+PUBLISHER NAME  : Microsoft Press
+BOOK ID         :6
+
+BOOK NAME       : Improving the Design of Existing Code
+AUTHOR NAME     : Martin Fowler, Kent Beck, Don Roberts 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :7
+
+BOOK NAME       : Introduction to the Theory of Computation
+AUTHOR NAME     : Michael Sipser 
+PUBLISHER NAME  : Cengage Learning
+BOOK ID         :8
+
+BOOK NAME       : The C++ Programming Language
+AUTHOR NAME     : Bjarne Stroustrup 
+PUBLISHER NAME  : Addison-Wesley Professional
+BOOK ID         :9
+
+BOOK NAME       : Effective Java Programming Language Guide
+AUTHOR NAME     : Joshua Bloch, Guy L. Steele Jr
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :10
+
+                  *** TYPES OF BOOKS ***
+
+
+BOOK NAME       : The C Programming Language
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :1
+
+BOOK NAME       : Elements of Reusable Object-Oriented Software
+AUTHOR NAME     : Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :2
+
+BOOK NAME       : Structure and Interpretation of Computer Programs  
+AUTHOR NAME     : Harold Abelson, Gerald Jay Sussman, Julie Sussman 
+PUBLISHER NAME  : MIT Press (MA)
+BOOK ID         :3
+
+BOOK NAME       : The C Programming Language 
+AUTHOR NAME     : Brian W. Kernighan, Dennis M. Ritchie 
+PUBLISHER NAME  : Prentice Hall
+BOOK ID         :4
+
+BOOK NAME       : From Journeyman to Master
+AUTHOR NAME     : Andrew Hunt, David Thomas 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :5
+
+BOOK NAME       : Code Complete 
+AUTHOR NAME     : Steve McConnell 
+PUBLISHER NAME  : Microsoft Press
+BOOK ID         :6
+
+BOOK NAME       : Improving the Design of Existing Code
+AUTHOR NAME     : Martin Fowler, Kent Beck, Don Roberts 
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :7
+
+BOOK NAME       : Introduction to the Theory of Computation
+AUTHOR NAME     : Michael Sipser 
+PUBLISHER NAME  : Cengage Learning
+BOOK ID         :8
+
+BOOK NAME       : The C++ Programming Language
+AUTHOR NAME     : Bjarne Stroustrup 
+PUBLISHER NAME  : Addison-Wesley Professional
+BOOK ID         :9
+
+BOOK NAME       : Effective Java Programming Language Guide
+AUTHOR NAME     : Joshua Bloch, Guy L. Steele Jr
+PUBLISHER NAME  : Addison-Wesley Professional 
+BOOK ID         :10
+

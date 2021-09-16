@@ -1,0 +1,70 @@
+book_name      : Ender's Game
+author_name    : Orson Scott Card 
+publisher_name : Tor Science Fiction
+book_id        : 091
+count          : 10
+borrower_id    :
+
+book_name      : The Hitchhiker's Guide to the Galaxy  
+author_name    : Douglas Adams 
+publisher_name : Del Rey
+book_id        : 092
+count          : 10
+borrower_id    :
+
+book_name      : Dune
+author_name    : Frank Herbert 
+publisher_name : Hodder Paperback
+book_id        : 093
+count          : 10
+borrower_id    :
+
+book_name      : The Hunger Games
+author_name    : Suzanne Collins 
+publisher_name : Scholastic Press
+book_id        : 094
+count          : 10
+borrower_id    :
+
+book_name      : 1984 
+author_name    : George Orwell, Erich Fromm
+publisher_name : Signet Classic 
+book_id        : 095
+count          : 10
+borrower_id    :
+
+book_name      : Brave New World 
+author_name    : Aldous Huxley  
+publisher_name : Harper Perennial Modern Classics
+book_id        : 096
+count          : 10
+borrower_id    :
+
+book_name      : Foundation
+author_name    : Isaac Asimov  
+publisher_name : Spectra
+book_id        : 097
+count          : 10
+borrower_id    :
+
+book_name      : Fahrenheit 451 
+author_name    : Ray Bradbury  
+publisher_name : Harper Voyager
+book_id        : 098
+count          : 10
+borrower_id    :
+
+book_name      : The Archived
+author_name    : Victoria Schwab  
+publisher_name : Hyperion 
+book_id        : 099
+count          : 10
+borrower_id    :
+
+book_name      : Ready Player One
+author_name    : Ernest Cline  
+publisher_name : Random House NY
+book_id        : 100
+count          : 10
+borrower_id    :
+

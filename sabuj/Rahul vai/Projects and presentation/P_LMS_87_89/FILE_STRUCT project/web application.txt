@@ -1,0 +1,29 @@
+book_name:Adaptive Web Design
+author:Aaron Gustafson
+publisher:X
+book_id:501
+stock:10;
+
+book_name:DOM Scripting
+author:Jeremy Keith
+publisher:Y
+book_id:502
+stock:25;
+
+book_name:Getting Things Done
+author:David Allen
+publisher:Z
+book_id:503
+stock:20;
+
+book_name:Good Strategy, Bad Strategy
+author:Richard Rumelt
+publisher:xy
+book_id:504
+stock:10;
+
+book_name:Handcrafted CSS: More Bulletproof Web Design
+author:Dan Cederholm and Ethan Marcotte
+publisher:yz
+book_id:505
+stock:15;

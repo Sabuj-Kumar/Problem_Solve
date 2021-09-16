@@ -1,0 +1,49 @@
+Hotel_Name:Hotel pacific
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Summer place Hotel
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Uttara club
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Lonely planet
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Hotel Zakaria international
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Ambala Inn
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Hotel Lake castle
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Estern residence
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Hotel club
+Room:75
+price:55$
+contact:01723492349
+
+Hotel_Name:Hotel Beam
+Room:75
+price:55$
+contact:01723492349

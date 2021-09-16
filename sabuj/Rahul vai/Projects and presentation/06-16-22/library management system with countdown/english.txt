@@ -1,0 +1,69 @@
+book_name      : Understanding and Using English Grammar 
+author_name    : Betty Schrampfer Azar 
+publisher_name : Pearson PTR Interactive
+book_id        : 031
+count          : 10
+borrower_id    :
+
+book_name      : The Grammarphobe's Guide to Better English in Plain English 
+author_name    : Patricia T. O'Conner 
+publisher_name : Riverhead Trade 
+book_id        : 032
+count          : 10
+borrower_id    :
+
+book_name      : The Zero Tolerance Approach to Punctuation
+author_name    : Lynne Truss 
+publisher_name : The Penguin Group
+book_id        : 033
+count          : 10
+borrower_id    :
+
+book_name      : Advanced Grammar in Use
+author_name    : Martin Hewings 
+publisher_name : Cambridge University Press
+book_id        : 034
+count          : 10
+borrower_id    :
+
+book_name      : A Communicative Grammar of English 
+author_name    : Geoffrey N. Leech, Jan Svartvik 
+publisher_name : Pearson Longman 
+book_id        : 035
+count          : 10
+borrower_id    :
+
+book_name      : How English Works: A Grammar Practice Book
+author_name    : Walter Swan
+publisher_name : Oxford University Press, USA 
+book_id        : 036
+count          : 10
+borrower_id    :
+
+book_name      : Practical English Usage 
+author_name    : Michael Swan
+publisher_name : Cornelsen & Oxford University Press 
+book_id        : 037
+count          : 10
+borrower_id    :
+
+book_name      : The Elements of Style 
+author_name    : William Strunk Jr., E.B. White 
+publisher_name : Longman
+book_id        : 038
+count          : 10
+borrower_id    :
+
+book_name      : The Handbook of Good English
+author_name    : Edward D. Johnson
+publisher_name : Washington Square Press 
+book_id        : 039
+count          : 10
+borrower_id    :
+
+book_name      : Fundamentals of English Grammar 
+author_name    : Betty Schrampfer Azar
+publisher_name : Regents/Prentice Hall 
+book_id        : 040
+count          : 10
+borrower_id    :

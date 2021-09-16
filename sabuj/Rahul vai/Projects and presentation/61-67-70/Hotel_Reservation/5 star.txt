@@ -1,0 +1,39 @@
+Hotel_Name:Dhaka Regency Hotel
+Room:125
+price:105$
+contact:01723492349
+
+Hotel_Name:The Wastin Dhaka
+Room:125
+price:105$
+contact:01723492349
+
+Hotel_Name:Hotel Sarina Dhaka
+Room:125
+price:105$
+contact:01723492349
+
+Hotel_Name:Radision Blu Water Garden Hotel
+Room:125
+price:105$
+contact:01723492349
+
+Hotel_Name:Six Seasons Hotel
+Room:125
+price:105$
+contact:01723492349
+
+Hotel_Name:Hotel Ruposi Bangla
+Room:125
+price:105$
+contact:01723492349
+
+Hotel_Name:Dhaka Sheraton Hotel
+Room:125
+price:105$
+contact:01723492349
+
+Hotel_Name:White House Dhaka
+Room:125
+price:105$
+contact:01723492349

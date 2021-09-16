@@ -1,0 +1,69 @@
+book_name      : John Adams 
+author_name    : David McCullough
+publisher_name : Simon & Schuster Paperbacks
+book_id        : 071
+count          : 10
+borrower_id    :
+
+book_name      : The Political Genius of Abraham Lincoln
+author_name    : Doris Kearns Goodwin 
+publisher_name : Simon & Schuster
+book_id        : 072
+count          : 10
+borrower_id    :
+
+book_name      : The Guns of August
+author_name    : Barbara W. Tuchman, Robert K. Massie
+publisher_name : Ballantine Books
+book_id        : 073
+count          : 10
+borrower_id    :
+
+book_name      : Battle Cry of Freedom
+author_name    : James M. McPherson
+publisher_name : Oxford University Press, USA
+book_id        : 074
+count          : 10
+borrower_id    :
+
+book_name      : The Diary of a Young Girl 
+author_name    : Anne Frank, Eleanor Roosevelt 
+publisher_name : Bantam Books 
+book_id        : 075
+count          : 10
+borrower_id    :
+
+book_name      : The Decline and Fall of the Roman Empire 
+author_name    : Edward Gibbon, Daniel J. Boorstin
+publisher_name : Modern Library
+book_id        : 076
+count          : 10
+borrower_id    :
+
+book_name      : The Pioneering First Mission to Explore 
+author_name    : Stephen E. Ambrose
+publisher_name : Simon & Schuster 
+book_id        : 077
+count          : 10
+borrower_id    :
+
+book_name      : The Origin of Species
+author_name    : Charles Darwin
+publisher_name : Castle Books 
+book_id        : 078
+count          : 10
+borrower_id    :
+
+book_name      : The Satanic Verses 
+author_name    : Salman Rushdie
+publisher_name : Picador
+book_id        : 079
+count          : 10
+borrower_id    :
+
+book_name      : The Complete Grimm's Fairy Tales 
+author_name    : Jacob Grimm, Wilhelm Grimm, Josef Scharl 
+publisher_name : Pantheon
+book_id        : 080
+count          : 10
+borrower_id    :

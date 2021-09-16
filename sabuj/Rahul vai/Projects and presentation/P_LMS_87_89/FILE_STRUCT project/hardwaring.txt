@@ -1,0 +1,29 @@
+book_name:Microsoft Works 2000 Dummies
+author:David Kay
+publisher:X
+book_id:201
+stock:10;
+
+book_name:How Computers Work: Processor and Main Memory
+author:Roger Young 
+publisher:1st Books Library 
+book_id:202
+stock:20;
+
+book_name:BIOS Disassembly Ninjutsu Uncovered 
+author:Darmawan Salihun
+publisher:A-List Publishing
+book_id:203
+stock:15;
+
+book_name:PC Architecture 
+author:Michael Karbo
+publisher:Know Ware - Competence Micro 
+book_id:204
+stock:25;
+
+book_name:Turbo Windows - The Ultimate PC Speed Up Guide 
+author:Liz Cornwell and Andre Coolfix
+publisher:CreateSpace
+book_id:205
+stock:40;

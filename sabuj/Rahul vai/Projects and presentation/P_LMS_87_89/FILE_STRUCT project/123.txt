@@ -1,0 +1,66 @@
+Borrower ID:13101087
+Book Name:How to REALLY use LinkedIn
+Borrowing Date:27/03/2014
+Borrower ID:13101089
+Book Name: Processor and Main Memory
+Borrowing Date:28/03/2014
+Borrower ID:13101088
+Book Name:Adaptive Web Design
+Borrowing Date:27/03/2014
+
+Borrower ID:aaaaaaaaaAaAaAAAaaaAaaaaaAaAAaaa-LIBGCCW32-EH-3-SJLJ-GTHR-MINGW32
+Book Name:
+Borrowing Date:Üý"
+
+Borrower ID:13101045
+Book Name:Programming With C
+Borrowing Date:27-03-2014
+
+Borrower ID:aaaaaaaaaaAAAaaAaaaAaaaaaAaAAaaa-LIBGCCW32-EH-3-SJLJ-GTHR-MINGW32
+Book Name:Teach yourself c
+Borrowing Date:Üý"
+
+Borrower ID:13101012
+Book Name:Microsoft Works 2000 Dummies
+Borrowing Date:21/3/14
+
+Borrower ID:13
+Book Name:BIOS Disassembly Ninjutsu Uncovered 
+Borrowing Date:21
+
+Borrower ID:13101013
+Book Name:Teach yourself c++
+Borrowing Date:12321
+
+Borrower ID:1310
+Book Name:Teach yourself c++
+Borrowing Date:123
+
+Borrower ID:13101
+Book Name:Teach yourself c++
+Borrowing Date:123
+
+Borrower ID:13101087
+Book Name:Teach yourself c++
+Borrowing Date:123456
+
+Borrower ID:13101001
+Book Name:Who's Afraid of Java?
+Borrowing Date:27/03/2014
+
+Borrower ID:13101010
+Book Name:Teach yourself c++
+Borrowing Date:27/2/2014
+
+Borrower ID:0705103
+Book Name:Teach yourself c
+Borrowing Date:27/3/2014
+
+Borrower ID:131012120
+Book Name:Who's Afraid of Java?
+Borrowing Date:12/13/14
+
+Borrower ID:13102035
+Book Name:Teach yourself c
+Borrowing Date:444
+

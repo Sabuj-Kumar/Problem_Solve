@@ -1,0 +1,5 @@
+pepsi 13 55 1000ml
+cocacola 22 38 600ml
+rccola 10 30 250ml
+7up 10 90 325ml
+fanta 15 55 250ml

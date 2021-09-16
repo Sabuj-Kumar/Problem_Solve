@@ -1,0 +1,5 @@
+pranchanachur 30 25 150gm
+sunchips 50 25 35gm
+lays 20 115 59gm
+pranbadambaja 22 8 30gm
+popcorn 20 20 35gm

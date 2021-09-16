@@ -1,0 +1,5 @@
+najir 10 290 5000gm
+danabasmati 10 805 5000gm
+aarongnajir 10 333 5000gm
+kalijira 10 212 2000gm
+fujibasmati 10 670 5000gm

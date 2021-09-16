@@ -1,0 +1,69 @@
+book_name      : The Music of the Primes
+author_name    : Marcus du Sautoy
+publisher_name : Harper Perennial 
+book_id        : 021
+count          : 10
+borrower_id    :
+
+book_name      : Cosmic Complexity and the Limits of Scientific Knowledge 
+author_name    : William Poundstone
+publisher_name : McGraw-Hill/Contemporary
+book_id        : 022
+count          : 10
+borrower_id    :
+
+book_name      : The Principles of Mathematics 
+author_name    : Bertrand Russell
+publisher_name : W. W. Norton & Company
+book_id        : 023
+count          : 10
+borrower_id    :
+
+book_name      : What Is Mathematics? An Elementary Approach to Ideas and Methods
+author_name    : Richard Courant, Ian Stewart 
+publisher_name : Oxford University Press, USA 
+book_id        : 024
+count          : 10
+borrower_id    :
+
+book_name      : A Beautiful Mind 
+author_name    : Sylvia Nasar
+publisher_name : Faber and Faber
+book_id        : 025
+count          : 10
+borrower_id    :
+
+book_name      : The Biography of a Dangerous Idea
+author_name    : Charles Seife
+publisher_name : Penguin
+book_id        : 026
+count          : 10
+borrower_id    :
+
+book_name      : A Life of the Genius Ramanujan 
+author_name    : Robert Kanigel
+publisher_name : Abacus
+book_id        : 027
+count          : 10
+borrower_id    :
+
+book_name      : The Great Theorems of Mathematics 
+author_name    : William Dunham
+publisher_name : Penguin Books
+book_id        : 028
+count          : 10
+borrower_id    :
+
+book_name      : The Epic Quest to Solve the World's Greatest Mathematical Problem
+author_name    : Simon Singh
+publisher_name : Anchor 
+book_id        : 029
+count          : 10
+borrower_id    :
+
+book_name      : An Eternal Golden Braid 
+author_name    : Douglas R. Hofstadter 
+publisher_name : Basic Books
+book_id        : 030
+count          : 10
+borrower_id    :

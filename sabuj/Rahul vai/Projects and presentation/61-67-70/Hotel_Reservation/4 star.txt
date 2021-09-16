@@ -1,0 +1,49 @@
+Hotel_Name:Hotel orchard swites	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Hotel sweet dream	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Fars Hotel & Resorts	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Hotel swiss garden	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Ascott the Residence	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Paradise Garden  Hotel	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Platinum Swites	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Pan Pacific Sonargoan	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:Well park Residence	
+Room:100
+price:95$
+contact:01712345312
+
+Hotel_Name:The cox Today	
+Room:100
+price:95$
+contact:01712345312

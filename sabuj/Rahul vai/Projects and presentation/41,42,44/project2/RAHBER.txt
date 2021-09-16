@@ -1,0 +1,29 @@
+bus_name:RAHBER 01
+Depart. time:7.00 AM
+Root Name:DHK - KHL
+Price:520
+Seat Available:40;
+
+bus_name:RAHBER 02
+Depart. time:8.00 AM
+Root Name:DHK - RANG
+Price:520
+Seat Available:40;
+
+bus_name:RAHBER 03
+Depart. time:1.00 PM
+Root Name:DHK - SYL
+Price:520
+Seat Available:40;
+
+bus_name:RAHBER 04
+Depart. time:8.00 PM
+Root Name:DHK - RAJ
+Price:520
+Seat Available:40;
+
+bus_name:RAHBER 05
+Depart. time:9.00 PM
+Root Name:DHK - COM
+Price:520
+Seat Available:40;

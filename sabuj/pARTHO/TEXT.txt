@@ -1,0 +1,42 @@
+1:Huawei Y5:Android M OS 6.0:5" IPS LCD 720 x 1280 pixels (~294 ppi pixel density):150 gm:2 GB:16 GB:8 MP AF:5 MP:3000mAh Li-ion:June,2017:Japan:10490:
+2:Huawei Y7:Android N OS 7.0:5.5" IPS LCD 720 x 1280 pixels (~267 ppi density):165 gm:2 GB:16 GB:12 MP:8 MP:4000mAh Li-Ion non-removeable:July,2017:Japan:13990:
+3:Huawei Y3:Android M OS 6.0:5" IPS LCD 480 x 854 pixels (~196 ppi pixel density):175 gm:1 GB:8 GB:8 MP AF:2 MP:2200mAh Li-ion:June,2017:Japan:7990:
+4:Huawei Mate 10 Pro:Android O OS 8.0:6" AMOLED 1080 x 2160 pixels (~402 ppi density):178 gm:6 GB:128 GB:Dual-12 MP +20 MP:8 MP:4000mAh Li-Po non-removeable:January 2017:Japan:15000:
+5:HUAWEI nova 2i:Android N OS 7.0:5.9" IPS LCD 1080 x 2160 pixels (~409 ppi pixel density):164 gm:4 GB:64 GB:Dual 16M+2M:Dual 13M+2M:3340mAh Li-Ion:Octobar,2017:Japan:26990:
+6:Huawei Y7 Prime:Android N OS 7.0:5.5" IPS LCD 720x1280 pixels (~267 ppi pixel density):165 gm:3 GB:32 GB:12 MP AF:8 MP AF:4000mAh Li-Ion non-removeable:January,2017:Japan:12500:
+7:Huawei GR3:Android N OS 7.0:5.2" IPS LCD 1080 x 1920 pixels (~424 ppi pixel density):147 gm:3 GB:16 GB:12 MP AF:8 MP AF:3000mAh Li-Ion non-removeable:Febuary,2016:Korea:11500:
+8:Huawei Y5II:Android L OS 5.1:5.2" IPS LCD 1080 x 2160 pixels:135 gm:1 GB:8 GB:8 MP AF:2 MP:2200mAh Li-po:March,2017:Korea:16550:
+9:Huawei P8lite :Android M OS 6.0:5.5" IPS LCD 720x1280 pixels (~267 ppi pixel density):131 gm:2 GB:16 GB:13 MP AF:5 MP AF:2200mAh Li-Ion non-removeable:June,2017:China:15490:
+10:Huawei MediaPad T3 7.0 :Android M OS 6.0:7" IPS LCD 600 x 1024 pixels (~170 ppi density):250 gm:1 GB:8 GB:2 MP:2 MP:3100mAh Li-Ion:April,2017:China:10390:
+11:Huawei P9 lite:Android M OS 6.0:5.2" IPS LCD 1080 x 2160 pixels:147 gm:3 GB:16 GB:13 MP AF:8 MP AF:3000mAh Li-Ion non-removeable:September,2017:Japan:21900:
+12:Huawei Y6 II Prime:Android M OS 6.0:5.5" IPS LCD 720x1280 pixels (~267 ppi pixel density):175gm:3 GB:32 GB:13 MP AF:8 MP AF:3000mAh:Octobar,2016:Korea:14450:
+13:Huawei Y5 II:Android M OS 6.0:5.5" IPS LCD 720 x 1280 pixels (~267 ppi density):168 gm:2 GB:16 GB:13 MP AF:8 MP AF:3000mAh Li-Ion:November,2017:Japan:13900:
+14:Huawei Y3 II:Android L OS 5.1:4.5" IPS LCD 720x1280 pixels (~267 ppi pixel density):150 gm:1 GB:8 GB:5 MP AF:2 MP:2100mAh Li-po:July,2017:Japan:6990:
+15:Huawei Honor 4X :Android M OS 6.0:5.2" IPS LCD 1080 x 2160 pixels:165 gm:2 GB:8 GB:13 MP AF:5 MP AF:3000mAh Li-po non-removeable:January,2017:Korea:12990:
+16:Huawei P10 Plus:Android N OS 7.0:5.5" IPS-NEO LCD 1440 x 2560 pixels (~540 ppi pixel density):165 gm:4 GB:64 GB:Dual 20 MP + 12 MP OIS AF:8 MP AF:3750mAh Li-Ion non-removeable:May,2017:Korea:64500:
+17:Huawei Y625:java:No:160 gm:1GB:4 GB:8 Megapixel:2 Megapixel:7.5 Hour(2G), 8.3 Hour(3G) 310 Hour(2G), 250 Hour(3G):April,2017:Korea:7990:
+18:Huawei Ascend Y300:Android 4.1 (Jelly Bean):5" IPS LCD 720 x 1280 pixels (~294 ppi pixel density):130 gm:0.5 GB:4 GB:5 MP AF:0.3 MP AF:1730mAh Li-Ion:August,2017:Japan:5000:
+19:Huawei Y6:Android L OS 5.1:5.2" IPS LCD 1080 x 2160 pixels:125 gm:2 GB:8 GB:8 MP AF:2 MP AF:2200mAh Li-Po:November,2017:Veyatnam:10990:
+20:Huawei Ascend Y511:Android 4.2 (Jelly Bean):4.5" LED Display:150 gm:0.5 GB:4 GB:3 MP AF:0.3 MP AF:1730mAh Li-Ion:December,2014:Malaysia:6990:
+21:Huawei Ascend W1:Android N S OS 5.0:4.5" IPS LCD:130 GM:512 MB:4GB:5 MP:NO:2200mAH LI-ION:January,2013:Korea:8000:
+22:Huawei MediaPad T1:Android 4.4.2 kitkat:5.2" IPS LCD 2.44:287 GM:2 GB:32 GB:8 MP:5 MP:3400mAH LI-ION:March,2015:Veyatnam:10250:
+23:Huawei Y3C:Android 4.4.7 Lolipop:5.5" IPS NEO LCD:220 GM:500 MB:4 GB:5 MP:2 MP:1730mAH LI-ION:January,2016:Korea:7000:
+24:Huawei Ascend Mate 7:Android 6.0 marshmalo:5.5" IPS LCD 720 x 1280 pixels :180 GM:2 GB:16 GB:13 MP:5 MP:2550mAH LI-ION:Octobar,2014:Korea:52500:
+25:Huawei Ascend A7:Android M OS 6.0:5" IPS LCD 720 x 1280 pixels (~294 ppi pixel density):170 gm:2 GB:16 GB:8 MP AF:5 MP:3000mAh Li-ion:June,2017:Japan:35500:
+26:Huawei Honor Holly:Android N OS 7.0:5.5" IPS LCD 720 x 1280 pixels (~267 ppi density):180 gm:1 GB:16 GB:8 MP:2 MP:4000mAh Li-Ion :Octobar,2015:Japan:10990:
+27:Huawei MediaPad T3 10:Android M OS 6.9:5" IPS LCD 4800 x 2400 pixels (~196 ppi pixel density):275 gm:1 GB:8 GB:4 MP AF:2 MP:4200mAh Li-ion:June,2015:Japan:17500:
+28:HUAWEI G7 plus:Android N OS 7.0:5.9" IPS LCD 1080 x 2160 pixels (~409 ppi pixel density):164 gm:4 GB:64 GB:Dual 16M+2M:13M:3340mAh Li-Ion:Octobar,2017:Japan:27990:
+29:Huawei Y5 c:Android N 4.4.5 kitkat:5.5" IPS LCD 720x1280 pixels (~267 ppi pixel density):165 gm:2 GB:12 GB:8 MP AF:3 MP AF:3000mAh Li-Ion non-removeable:January,2016:Japan:18500:
+30:Huawei R3+:Android N OS 7.0:5.2" IPS LCD 1080 x 1920 pixels (~424 ppi pixel density):155 gm:2 GB:8 GB:5 MP AF:2 MP AF:3200mAh Li-Ion:Febuary,2017:Korea:16990:
+31:Huawei P8:Android L OS 5.1:5.2" IPS LCD 1080 x 2160 pixels:160 gm:1 GB:16 GB:8 MP AF:5 MP:2500mAh Li-po:July,2017:Korea:13550:
+32:Huawei Ascend P6 :Android M OS 2.0:5.2" IPS LCD 720x1280 pixels (~267 ppi pixel density):167 gm:6 GB:32 GB:13 MP AF:5 MP AF:3100mAh Li-Ion:June,2017:Japan:26750:
+33:Huawei Ascend Y520 7.0 :Android M OS 6.0:7" IPS LCD 600 x 1024 pixels (~170 ppi density):250 gm:1 GB:8 GB:8 MP:2 MP:2100mAh Li-Ion:April,2017:China:13500:
+34:Huawei Media Pad M1:Android 4.4.4 lolipop:5.2" IPS LCD 1080 x 2160 pixels:157 gm:3 GB:16 GB:20 MP AF:8 MP AF:3000mAh Li-Ion non-removeable:September,2016:Japan:27000:
+35:Huawei Honor Y2:Android 2.4.6 Marshmalo:5.5" IPS LCD 720x1280 pixels (~267 ppi pixel density):176 gm:4 GB:32 GB:16 MP AF:8 MP AF:3200mAh Li-ion:Octobar,2016:Korea:13500:
+36:Huawei G6:Android M OT 7.1:5.5" IPS LCD 720 x 1280 pixel:150 gm:1 GB:12 GB:8 MP AF:2 MP AF:3400mAh Li-Ion:November,2015:Japan:16000:
+37:Huawei ascend Mate:Android L OS 5.1:4.5" IPS LCD :190 gm:512 MB:.5 GB:5 MP AF:5 MP:2200mAh Li-po:May,2017:Chaina:5600:
+38:Huawei Honor G7 :Android M OS 4.0:5.2" IPS LCD 1080 x 2160 pixels:165 gm:1 GB:6 GB:3 MP AF:.3 MP AF:3000mAh Li-po non-removeable:January,2014:Korea:12990:
+39:Huawei Y6 Plus:Android N OS 7.0:5.5" IPS-NEO LCD 1440 x 2560 pixels (~540 ppi pixel density):155 gm:2 GB:4 GB: 12 MPAF:8 MP AF:3750mAh Li-Ion:May,2016:Korea:14500:
+40:Huawei Y1:java:No:160 gm:1GB:2 GB:5 Megapixel:2 Megapixel:7.5 Hour(2G), 8 Hour :April,2015:Chaina:7990:
+
+

@@ -1,0 +1,49 @@
+Hotel_Name:Hotel Aobakash
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel Dreamland
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel Baishakhi
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel Chondrima
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel View
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel Sealand
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel Mhokta
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel Monir
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel Jobbar
+Room:45
+price:35$
+contact:01723492349
+
+Hotel_Name:Hotel manas
+Room:45
+price:35$
+contact:01723492349

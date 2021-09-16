@@ -1,0 +1,272 @@
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     :
+student gender  :
+student NAME     : EVAN SHAHRIAR
+student gender  : male
+student NAME     : S.M.GOLAM KIBRIA RIFAT
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : HASIN MD. MUHTASIM TAQI
+student gender  : male
+student NAME     : ZAWAD TANVIR
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : ABU RIFAT RAKIBUL
+student gender  : male
+student NAME     : MD. SANWAR HOSSAIN
+student gender  : male
+student NAME     : MD. ABDULLAH REZWAN
+student gender  : male
+student NAME     : MD. MARUF-UL-ISLAM RAHAT
+student gender  : male
+student NAME     : EVAN SHAHRIAR
+student gender  : male
+student NAME     : S.M.GOLAM KIBRIA RIFAT
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : HASIN MD. MUHTASIM TAQI
+student gender  : male
+student NAME     : ZAWAD TANVIR
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : ABU RIFAT RAKIBUL
+student gender  : male
+student NAME     : MD. SANWAR HOSSAIN
+student gender  : male
+student NAME     : MD. ABDULLAH REZWAN
+student gender  : male
+student NAME     : MD. MARUF-UL-ISLAM RAHAT
+student gender  : male
+student NAME     : EVAN SHAHRIAR
+student gender  : male
+student NAME     : S.M.GOLAM KIBRIA RIFAT
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : HASIN MD. MUHTASIM TAQI
+student gender  : male
+student NAME     : ZAWAD TANVIR
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : ABU RIFAT RAKIBUL
+student gender  : male
+student NAME     : MD. SANWAR HOSSAIN
+student gender  : male
+student NAME     : MD. ABDULLAH REZWAN
+student gender  : male
+student NAME     : MD. MARUF-UL-ISLAM RAHAT
+student gender  : male
+student NAME     : EVAN SHAHRIAR
+student gender  : male
+student NAME     : S.M.GOLAM KIBRIA RIFAT
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : HASIN MD. MUHTASIM TAQI
+student gender  : male
+student NAME     : ZAWAD TANVIR
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : ABU RIFAT RAKIBUL
+student gender  : male
+student NAME     : MD. SANWAR HOSSAIN
+student gender  : male
+student NAME     : MD. ABDULLAH REZWAN
+student gender  : male
+student NAME     : MD. MARUF-UL-ISLAM RAHAT
+student gender  : male
+student NAME     : TAHIYA ARSHI
+student gender  : femal
+student NAME     : FARIA AMIN
+student gender  : femal
+student NAME     : BIDISHA HAQUE
+student gender  : femal
+student NAME     : B M RAFAT AREFIN ALAM
+student gender  : male
+student NAME     : ASIM SHAHRIAR
+student gender  : male
+student NAME     : JARIN TASNIM
+student gender  : femal
+student NAME     : MD. HABIBUL BASHAR
+student gender  : male
+student NAME     : MD. RABIOUS SEAJON
+student gender  : male
+student NAME     : ZUBAIR AHMED
+student gender  : male
+student NAME     : RAZIUN UDDIN AHMED CHOWDHURY
+student gender  : male
+student NAME     : SAADMAN SAYEED
+student gender  : male
+student NAME     : A. K. ALVI HAQUE
+student gender  : male
+student NAME     : MD.ABDULLAH-ALL-MABUD
+student gender  : male
+student NAME     : MD. SHAMIM MAHFUZ SNIGDHO
+student gender  : male
+student NAME     : EVAN SHAHRIAR
+student gender  : male
+student NAME     : S.M.GOLAM KIBRIA RIFAT
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : HASIN MD. MUHTASIM TAQI
+student gender  : male
+student NAME     : ZAWAD TANVIR
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : ABU RIFAT RAKIBUL
+student gender  : male
+student NAME     : MD. SANWAR HOSSAIN
+student gender  : male
+student NAME     : MD. ABDULLAH REZWAN
+student gender  : male
+student NAME     : MD. MARUF-UL-ISLAM RAHAT
+student gender  : male
+student NAME     : TAHIYA ARSHI
+student gender  : femal
+student NAME     : FARIA AMIN
+student gender  : femal
+student NAME     : BIDISHA HAQUE
+student gender  : femal
+student NAME     : B M RAFAT AREFIN ALAM
+student gender  : male
+student NAME     : ASIM SHAHRIAR
+student gender  : male
+student NAME     : JARIN TASNIM
+student gender  : femal
+student NAME     : MD. HABIBUL BASHAR
+student gender  : male
+student NAME     : MD. RABIOUS SEAJON
+student gender  : male
+student NAME     : ZUBAIR AHMED
+student gender  : male
+student NAME     : RAZIUN UDDIN AHMED CHOWDHURY
+student gender  : male
+student NAME     : SAADMAN SAYEED
+student gender  : male
+student NAME     : A. K. ALVI HAQUE
+student gender  : male
+student NAME     : MD.ABDULLAH-ALL-MABUD
+student gender  : male
+student NAME     : MD. SHAMIM MAHFUZ SNIGDHO
+student gender  : male
+student NAME     : EVAN SHAHRIAR
+student gender  : male
+student NAME     : S.M.GOLAM KIBRIA RIFAT
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : HASIN MD. MUHTASIM TAQI
+student gender  : male
+student NAME     : ZAWAD TANVIR
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : ABU RIFAT RAKIBUL
+student gender  : male
+student NAME     : MD. SANWAR HOSSAIN
+student gender  : male
+student NAME     : MD. ABDULLAH REZWAN
+student gender  : male
+student NAME     : MD. MARUF-UL-ISLAM RAHAT
+student gender  : male
+student NAME     : TAHIYA ARSHI
+student gender  : femal
+student NAME     : FARIA AMIN
+student gender  : femal
+student NAME     : BIDISHA HAQUE
+student gender  : femal
+student NAME     : B M RAFAT AREFIN ALAM
+student gender  : male
+student NAME     : ASIM SHAHRIAR
+student gender  : male
+student NAME     : JARIN TASNIM
+student gender  : femal
+student NAME     : MD. HABIBUL BASHAR
+student gender  : male
+student NAME     : MD. RABIOUS SEAJON
+student gender  : male
+student NAME     : ZUBAIR AHMED
+student gender  : male
+student NAME     : RAZIUN UDDIN AHMED CHOWDHURY
+student gender  : male
+student NAME     : SAADMAN SAYEED
+student gender  : male
+student NAME     : A. K. ALVI HAQUE
+student gender  : male
+student NAME     : MD.ABDULLAH-ALL-MABUD
+student gender  : male
+student NAME     : MD. SHAMIM MAHFUZ SNIGDHO
+student gender  : male
+student NAME     : EVAN SHAHRIAR
+student gender  : male
+student NAME     : S.M.GOLAM KIBRIA RIFAT
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : HASIN MD. MUHTASIM TAQI
+student gender  : male
+student NAME     : ZAWAD TANVIR
+student gender  : male
+student NAME     : MD  ISTIAK UDDIN
+student gender  : male
+student NAME     : ABU RIFAT RAKIBUL
+student gender  : male
+student NAME     : MD. SANWAR HOSSAIN
+student gender  : male
+student NAME     : MD. ABDULLAH REZWAN
+student gender  : male
+student NAME     : MD. MARUF-UL-ISLAM RAHAT
+student gender  : male
+student NAME     : TAHIYA ARSHI
+student gender  : femal
+student NAME     : FARIA AMIN
+student gender  : femal
+student NAME     : BIDISHA HAQUE
+student gender  : femal
+student NAME     : B M RAFAT AREFIN ALAM
+student gender  : male
+student NAME     : ASIM SHAHRIAR
+student gender  : male
+student NAME     : JARIN TASNIM
+student gender  : femal
+student NAME     : MD. HABIBUL BASHAR
+student gender  : male
+student NAME     : MD. RABIOUS SEAJON
+student gender  : male
+student NAME     : ZUBAIR AHMED
+student gender  : male
+student NAME     : RAZIUN UDDIN AHMED CHOWDHURY
+student gender  : male
+student NAME     : SAADMAN SAYEED
+student gender  : male
+student NAME     : A. K. ALVI HAQUE
+student gender  : male
+student NAME     : MD.ABDULLAH-ALL-MABUD
+student gender  : male
+student NAME     : MD. SHAMIM MAHFUZ SNIGDHO
+student gender  : male

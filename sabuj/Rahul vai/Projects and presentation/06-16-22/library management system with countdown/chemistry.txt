@@ -1,0 +1,70 @@
+book_name      : The Elements: A Visual Exploration of Every Known Atom in the Universe 
+author_name    : Theodore Gray, Nick Mann
+publisher_name : Black Dog & Leventhal Publishers 
+book_id        : 051
+count          : 10
+borrower_id    :
+
+book_name      : Light and Shadows 
+author_name    : Estela Vazquez Perez
+publisher_name : Outskirts Press
+book_id        : 052
+count          : 10
+borrower_id    :
+
+book_name      : Uncle Tungsten 
+author_name    : Oliver Sacks 
+publisher_name : Picador
+book_id        : 053
+count          : 10
+borrower_id    :
+
+book_name      : General Chemistry 
+author_name    : Linus Pauling
+publisher_name : Dover Publications
+book_id        : 054
+count          : 10
+borrower_id    :
+
+book_name      : A Short History of Nearly Everything 
+author_name    : Bill Bryson
+publisher_name : Broadway Books
+book_id        : 055
+count          : 10
+borrower_id    :
+
+book_name      : The Chemical History of a Candle 
+author_name    : Michael Faraday
+publisher_name : Paperback
+book_id        : 056
+count          : 10
+borrower_id    :
+
+book_name      : Paperback
+author_name    : Mark Kurlansky
+publisher_name : Mark Kurlansky
+book_id        : 057
+count          : 10
+borrower_id    :
+
+book_name      : What Einstein Told His Cook: Kitchen Science Explained 
+author_name    : Robert L. Wolke, Marlene Parrish 
+publisher_name : W. W. Norton & Company 
+book_id        : 058
+count          : 10
+borrower_id    :
+
+book_name      : The Double Helix 
+author_name    : James D. Watson 
+publisher_name : Signet Books 
+book_id        : 059
+count          : 10
+borrower_id    :
+
+book_name      : A Chemical History Of A Candle
+author_name    : Michael Faraday
+publisher_name : Book Jungle
+book_id        : 060
+count          : 10
+borrower_id    :
+

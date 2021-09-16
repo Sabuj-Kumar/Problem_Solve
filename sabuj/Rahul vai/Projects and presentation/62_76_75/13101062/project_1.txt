@@ -1,0 +1,40 @@
+Express_name: Padma
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Silkcity
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Mohanagar
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Antanagar
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Jamuna
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;

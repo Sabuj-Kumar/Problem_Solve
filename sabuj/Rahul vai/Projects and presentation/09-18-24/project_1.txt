@@ -1,0 +1,81 @@
+Express_name: Silkcity
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Antanagar
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Mohanagar
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Padma
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Jamuna
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Daulodia
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Dhaleswar
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Mohonbagan
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Rajani
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+Express_name: Jaidevpur
+Trains: 4
+Available: Yes
+Train_list:
+001
+002
+003
+004;
+

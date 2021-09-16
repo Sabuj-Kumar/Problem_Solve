@@ -1,0 +1,80 @@
+Airlines_name: Bangladesh_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Emirates_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Japan_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Kolkata_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Riad_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Quatar_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Dubai_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: China_Eastern_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Delta_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;
+Airlines_name: Singapore_Airlines
+Planes: 4
+Available: Yes
+Plane_list:
+001
+002
+003
+004;

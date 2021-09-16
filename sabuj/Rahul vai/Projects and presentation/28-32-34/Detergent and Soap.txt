@@ -1,0 +1,5 @@
+lux 30 28 100gm
+lifeboy 30 25 150gm
+dove 30 50 150gm
+wheel 30 100 1000gm
+surfexel 25 100 500gm
